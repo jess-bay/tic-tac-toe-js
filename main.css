@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  margin-top: 40px;
+}
+
+table {
+  margin-right: center;
+  margin-left: center;
+  margin: 0 auto;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 2vw;
+  color: black;
+}
+
+td {
+  width: 8vw;
+  height: 8vw;
+  text-align: center;
+  font-size: 300%;
+  border: black solid 3px;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2vw;
+  color: #4c2c92;
+}
+
+#resetGame {
+  margin-top: 40px;
+}
